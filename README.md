@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 I am **Kenechukwu Ifediorah**. An experienced data professional with core proficiencies in Data Analytics, Data Engineering, Data Science and a good knowledge of Cloud Engineering (GCP). I have a demonstrated history of using Python, SQL for data preparation, manipulation, analysis and machine learning in multiple project works and Power BI for visualisation. I have good knowledge of architecting, deploying, maintaining and monitoring solutions on the Google Cloud Platform and using products like Docker and Kubernetes.
 
