@@ -1,4 +1,3 @@
-<img src = "/Github header.jpg" height = "650" width = "1280">
 
 ## Hello there 👋
 
